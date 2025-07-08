@@ -52,7 +52,7 @@ These diagrams helped me:
 
 ## 📢 Credits
 
-Built by [am1tt] as part of hands-on pentesting practice + internship reflections.
+Built by [@am1tt](https://github.com/am1tt) as part of hands-on pentesting practice + internship reflections.
 
 ---
 
